@@ -23,17 +23,20 @@ Este projeto utiliza Node.js para fazer requisições à Currency Converter API 
 1. Clone o repositório:
    
      Copiar código-
-      - *git clone https://github.com/LucasGonzagaTech/plataformacambioBackEnd*
+      ```bash
+      git clone https://github.com/LucasGonzagaTech/plataformacambioBackEnd
+      ```
    
-2. Instale as dependências:
+3. Instale as dependências:
    
     Copiar código-
 
-         ```bash
-         - *npm install*
-
+ ```bash
+   npm install
+   ```
    ```bash
-   npm i axios*
+   npm i axios
+   ```
    (se necessário)
 
 
