@@ -30,7 +30,7 @@ Este projeto utiliza Node.js para fazer requisições à Currency Converter API 
       nom axios (se necessário)
 
 
-##Como testar
+## Como testar
 ### Obtenção da Chave de API
 
 Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) [Exchange Rates API](https://exchangeratesapi.io/) ou para obter uma chave de API. Substitua `'SuaKey'` no arquivo `index.js` pela sua chave de API.
