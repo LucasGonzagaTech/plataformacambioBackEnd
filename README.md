@@ -28,8 +28,13 @@ Este projeto utiliza Node.js para fazer requisições à Currency Converter API 
 2. Instale as dependências:
    
     Copiar código-
-      - *npm install*
-      - *npm i axios* (se necessário)
+
+         ```bash
+         - *npm install*
+
+   ```bash
+   npm i axios*
+   (se necessário)
 
 
 ## Como testar
