@@ -33,7 +33,7 @@ Este projeto utiliza Node.js para fazer requisições à Currency Converter API 
 ## Como testar
 ### Obtenção da Chave de API
 
-Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) [Exchange Rates API](https://exchangeratesapi.io/) ou para obter uma chave de API. Substitua `'SuaKey'` no arquivo `index.js` pela sua chave de API.
+Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) ou [Exchange Rates API](https://exchangeratesapi.io/) ou para obter uma chave de API. Substitua `'SuaKey'` no arquivo `index.js` pela sua chave de API.
 
 Para executar o projeto, execute o seguinte comando no terminal-
    node index.js
