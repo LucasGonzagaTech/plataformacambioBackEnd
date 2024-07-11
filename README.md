@@ -1,5 +1,3 @@
-# Currency Converter API em Node.js
-
 Este projeto utiliza Node.js para fazer requisições à Currency Converter API e converter valores entre diferentes moedas.
 
 ## Configuração
@@ -13,7 +11,7 @@ Antes de começar, certifique-se de ter Node.js instalado no seu ambiente de des
 
 2. **Obtenção da Chave de API**
 
-Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) para obter uma chave de API. Substitua `'YOUR_API_KEY'` no arquivo `index.js` pela sua chave de API.
+Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) [Exchange Rates API](https://exchangeratesapi.io/) ou para obter uma chave de API. Substitua `'SuaKey'` no arquivo `index.js` pela sua chave de API.
 
 ## Uso
 
@@ -21,12 +19,10 @@ Você precisa se registrar na [Currency Converter API](https://www.currencyconve
 
 Para executar o projeto, execute o seguinte comando no terminal:
 
+node index.js
 
 Isso realizará uma conversão de moeda de exemplo e mostrará o resultado no console.
 
-2. **Exemplo de Conversão**
-
-O projeto está configurado para converter um valor de 10 unidades da moeda EUR para GBP. Você pode modificar as variáveis `from`, `to` e `amount` no arquivo `index.js` para testar outras conversões.
 
 ## Estrutura do Projeto
 
