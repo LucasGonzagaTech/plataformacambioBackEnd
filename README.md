@@ -38,8 +38,9 @@ Este projeto utiliza Node.js para fazer requisições à Currency Converter API 
 Você precisa se registrar na [Currency Converter API](https://www.currencyconverterapi.com/) ou [Exchange Rates API](https://exchangeratesapi.io/) ou para obter uma chave de API. Substitua `'SuaKey'` no arquivo `index.js` pela sua chave de API.
 
 Para executar o projeto, execute o seguinte comando no terminal-
-   node index.js
-      Isso realizará uma conversão de moeda de exemplo e mostrará o resultado no console.
+   - node index.js
+     
+Isso realizará uma conversão de moeda de exemplo e mostrará o resultado no console.
 
 
 ### Contribuições
